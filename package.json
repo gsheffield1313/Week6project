@@ -1,0 +1,16 @@
+{
+  "name": "week6",
+  "version": "1.0.0",
+  "main": "deck.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"//dont know how to fix this error//
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "chai": "^4.3.7",
+    "mocha": "^10.2.0"
+  }
+}
